@@ -57,4 +57,4 @@ usb母口需要5V电源供电
 
 将鼠标插入到发送端esp32的usb接口上（鼠标推荐使用500hz回报率，最高支持1000Hz回报率）
 
-电脑上运行kalabiqiu.py(位于此项目python_program/下) cmd中切换到kalabiqiu.py然后运行`python kalabiqiu.py`即可
+电脑上运行kalabiqiu.py(位于此项目python_program/下) ，cmd中切换到kalabiqiu.py所在目录然后运行`python kalabiqiu.py`即可
